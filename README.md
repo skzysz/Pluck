@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🎮 Pluck
 
 **Удобная программа-памятка для игроков RolePlay проектов в Roblox**
@@ -45,13 +43,13 @@
 
 **Верхняя панель (свёрнутое состояние):**
 
-![Top Bar](screenshots/topbar.png)
+![TopBar](TopBar.png)
 
 **Раздел «Правила сервера»:**
 
-![Rules](screenshots/rules.png)
+![Rules](Rules.png)
 
-**Раздел «Законы штата»:**
+**Раздел «Законы»:**
 
 ![Laws](screenshots/laws.png)
 
