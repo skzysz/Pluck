@@ -51,14 +51,10 @@
 
 **Раздел «Законы»:**
 
-![Laws](screenshots/laws.png)
-
-**Раздел «Правила для администрации»:**
-
-![Admin](screenshots/admin.png)
+![Laws](Laws.png)
 
 **Настройки:**
 
-![Settings](screenshots/settings.png)
+![Soon...](settings.png)
 
 ---
